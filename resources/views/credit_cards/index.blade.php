@@ -5,9 +5,11 @@
         <div class="row justify-content-center">
             <div class="col-md-12">
                 <div class="card">
-                    <div class="card-header main-container">
-                        <span>Credit Card Management</span>
-                        <span>Add Purchase</span>
+                    <div class="card-header">
+                        <div class="main-container">
+                            <span>Credit Card Management</span>
+                            <span>Add Purchase</span>
+                        </div>
                     </div>
 
                     <div class="card-body">
